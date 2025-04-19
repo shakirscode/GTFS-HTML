@@ -11,12 +11,6 @@ html
 # custom views
 views/custom
 
-# config files
-config*
-!config-sample*
-
-# docker
-docker/config*
 
 # Build files
 /dist

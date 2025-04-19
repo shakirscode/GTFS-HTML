@@ -1,0 +1,17 @@
+{
+  "agencies": [
+    {
+      "agencyKey": "test-agency",
+      "path": "./gtfs-data/gtfs.zip"
+    }
+  ],
+  "linkStopUrls": true,
+  "menuType": "radio",
+  "noHead": false,
+  "outputFormat": "html",
+  "showMap": true,
+  "showOnlyTimepoint": true,
+  "useParentStation": true,
+  "verbose": true,
+  "sqlitePath": "./gtfs.db"
+} 
