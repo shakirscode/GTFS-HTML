@@ -1,0 +1,22 @@
+.git
+.DS_Store
+.vscode
+
+# dependencies
+node_modules
+
+# output
+html
+
+# custom views
+views/custom
+
+# config files
+config*
+!config-sample*
+
+# docker
+docker/config*
+
+# Build files
+/dist
