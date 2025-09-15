@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
   <br /><br />
   Create human-readable, user-friendly transit timetables in HTML, PDF or CSV format directly from GTFS.
+  This allowed users to show displayed time-table with enabled map routes.
   <br /><br />
   <a href="https://nodei.co/npm/gtfs-to-html/" rel="nofollow"><img src="https://nodei.co/npm/gtfs-to-html.png?downloads=true" alt="NPM" style="max-width: 100%;"></a>
 </p>
