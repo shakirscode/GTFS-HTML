@@ -22,13 +22,13 @@
 ## 🎥 Project Demo
 - 📽️ [Watch on Google Drive](https://drive.google.com/file/d/1dEQzEE5nfjkZtEOeSLlSgQQgHqYGZrmj/view?usp=drive_link)
 
+## Features
 See [gtfstohtml.com](https://gtfstohtml.com) for full documentation.
 
 Most transit agencies have schedule data in [GTFS ](https://developers.google.com/transit/gtfs/) format but need to show each route's schedule to users on a website. GTFS-to-HTML automates the process of creating nicely formatted HTML timetables for inclusion on a transit agency website. This makes it easy to keep timetables up to date and accurate when schedule changes happen and reduces the likelihood of errors.
 
 <img width="1265" src="https://user-images.githubusercontent.com/96217/28296063-aed45568-6b1a-11e7-9794-94b3d915d668.png">
 
-## Features
 
 ### Configurable and customizable
 
